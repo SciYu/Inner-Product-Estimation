@@ -90,7 +90,7 @@ for i = 1:niter
 
     %% Statistics
     fprintf('Statistics, ');
-    Stat_all = [mean(S_RE,1), mean(S_Recall,1), mean(D_RE,1), mean(D_Recall,1), mean(time,1)];
+    Stat_all = [mean(S_RE,1)', mean(S_Recall,1)', mean(D_RE,1)', mean(D_Recall,1)', mean(time,1)'];
     
     %%
     fprintf('Finished.\n\n');
