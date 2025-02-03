@@ -9,7 +9,7 @@ r = 0.8;              % missing ratio
 top_eig = 5;          % hyper-parameter: top-k eigenvalues
 seed = 2024;          % random seed
 
-fprintf('\nWWW-2025 submission #948 "A Theory-Driven Approach to Inner Product Matrix Estimation for Incomplete Data: An Eigenvalue Perspective"');
+fprintf('\nWWW-2025 paper "A Theory-Driven Approach to Inner Product Matrix Estimation for Incomplete Data: An Eigenvalue Perspective"');
 fprintf('\nDemo: Evaluation on Estimation Error and Similarity Search in Sections 6.2 and 6.3');
 fprintf('\nNote: Due to limited size of supplementary materials, only one iteration of data can be provided\n');
 

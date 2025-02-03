@@ -13,7 +13,7 @@ function [S_new] = correct_ec_scale(S_miss, S_ref, partition, top_eig, top_sng, 
 % @return S_new      Corrected inner product matrix for S_miss
 %
 % <Reference>
-% See Algorithm 3 in Section 5.1 and Appendix B.1 for more details.
+% See Algorithm 3 in Section 5.1 and Appendix B for more details.
 
 if (nargin < 6)
     parallel = 'false';
