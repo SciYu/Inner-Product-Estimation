@@ -1,6 +1,6 @@
-# Supplementary Materials
+# Inner Product Matrix Estimation for Incomplete Data
 
-The source code for the WWW'2025 submission #948, titled **"A Theory-Driven Approach to Inner Product Matrix Estimation
+The source code for the WWW'2025 paper, titled **"A Theory-Driven Approach to Inner Product Matrix Estimation
 for Incomplete Data: An Eigenvalue Perspective"**.
 
 ## Introduction
@@ -40,3 +40,20 @@ The code has been tested on MATLAB R2020b and R2024a. It should be able to run o
    ./similarity.m               - Inner product estimation on incomplete data
    ./eval_recall.m              - Measure Recall for similarity search tasks
 </pre>
+
+## Citation
+
+If you find this code useful for your research, please use the following BibTeX entry.
+
+```
+@inproceedings{yu2025theory,
+  title={A Theory-Driven Approach to Inner Product Matrix Estimation for Incomplete Data: An Eigenvalue Perspective},
+  author={Yu, Fangchen and Zeng, Yicheng and Mao, Jianfeng and Li, Wenye},
+  booktitle={Proceedings of the ACM on Web Conference 2025},
+  year={2025}
+}
+```
+
+## Contact
+
+If you have any problems or questions, please contact the author: Fangchen Yu (email: fangchenyu@link.cuhk.edu.cn)
