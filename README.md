@@ -34,7 +34,7 @@ The code has been tested on MATLAB R2020b and R2024a. It should be able to run o
 |Our_method/                    - Our proposed eigenvalue correction algorithms 
    ./correct_ec_iid.m           - Eigenvalue correction for i.i.d. data (see Algorithm 1 in Section 3.3)
    ./correct_ec_noniid.m        - Eigenvalue correction for non-i.i.d. data (see Algorithm 2 in Section 4.3) 
-   ./correct_ec_scale.m         - Scalable eigenvalue correction algorithm (see Algorithm 3 in Section 5.1 and Appendix B.1)
+   ./correct_ec_scale.m         - Scalable eigenvalue correction algorithm (see Algorithm 3 in Section 5.1 and Appendix B)
 
 |Utils/                         - Evaluation files 
    ./similarity.m               - Inner product estimation on incomplete data
