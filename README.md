@@ -28,8 +28,8 @@ The code has been tested on MATLAB R2020b and R2024a. It should be able to run o
 
 |Calibration/                   - Baselines of similarity calibration
    ./calibrate_dmc.m            - DMC calibration method  
-   ./calibrate_smc.m            - SMC calibration method
-   ./calibrate_svc.m            - SVC calibration method
+   ./calibrate_smc.m            - SMC calibration method (see Algorithm 2 in the reference)
+   ./calibrate_svc.m            - SVC calibration method (see Algorithm 2 in the reference)
 
 |Our_method/                    - Our proposed eigenvalue correction algorithms 
    ./correct_ec_iid.m           - Eigenvalue correction for i.i.d. data (see Algorithm 1 in Section 3.3)
