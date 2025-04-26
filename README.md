@@ -1,7 +1,7 @@
 # Inner Product Matrix Estimation for Incomplete Data
 
-The source code for the WWW'2025 paper, titled **"A Theory-Driven Approach to Inner Product Matrix Estimation
-for Incomplete Data: An Eigenvalue Perspective"**.
+The source code for the WWW'2025 paper, titled [**"A Theory-Driven Approach to Inner Product Matrix Estimation
+for Incomplete Data: An Eigenvalue Perspective"**](https://dl.acm.org/doi/pdf/10.1145/3696410.3714947?casa_token=vH66OZoybrkAAAAA:kzrl2y-PJA424rCUwkN7DpzVW7hBmYTwPTHMwYokouoO3laDOMjtPbL0AXGI5mseoy_JpknGYsN4nbs).
 
 ## Introduction
 
@@ -50,6 +50,7 @@ If you find this code useful for your research, please use the following BibTeX 
   title={A Theory-Driven Approach to Inner Product Matrix Estimation for Incomplete Data: An Eigenvalue Perspective},
   author={Yu, Fangchen and Zeng, Yicheng and Mao, Jianfeng and Li, Wenye},
   booktitle={Proceedings of the ACM on Web Conference 2025},
+  pages={4077--4088},
   year={2025}
 }
 ```
